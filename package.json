@@ -1,0 +1,31 @@
+{
+  "name": "hapi-todo-api",
+  "version": "1.0.0",
+  "description": "todo list api with hapi js",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aryasadeghy/hapi-Todo-api.git"
+  },
+  "dependencies": {
+    "hapi": "^16.6.2",
+    "mongoose": "^4.13.2"
+  },
+  "keywords": [
+    "hapijs",
+    "hapiapinode",
+    "nodeapi",
+    "api",
+    "todolistapi"
+  ],
+  "author": "aryasadeghy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aryasadeghy/hapi-Todo-api/issues"
+  },
+  "homepage": "https://github.com/aryasadeghy/hapi-Todo-api#readme"
+}
